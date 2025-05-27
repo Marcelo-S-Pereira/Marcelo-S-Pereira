@@ -8,10 +8,10 @@ Pergunte algo [aqui](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issu
 
 ## 
 <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira" />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira" />
 </a>
 <a href="https://github.com/Marcelo-S-Pereira/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-S-Pereira&layout=compact&langs_count=8&card_width=320" />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-S-Pereira&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
