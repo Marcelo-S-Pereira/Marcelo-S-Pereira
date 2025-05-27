@@ -1,4 +1,4 @@
-# Olá! Eu sou o Marcelo Pereira #
+# Hi! I'm Marcelo Pereira #
 
 ---
 
