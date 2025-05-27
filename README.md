@@ -2,9 +2,9 @@
 
 ---
 
-Sou um desenvolvedor apaixonado por automação desde os 20 anos de idade.
+I've been a developer passionate about automation since I was 20 years old.
 
-Pergunte algo [aqui](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues)
+Ask a question [here](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues)
 
 ## 
 <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats">
