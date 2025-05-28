@@ -6,6 +6,15 @@
     <td style="width:100%;">
       I've been a developer passionate about automation since I was 20 years old.<br><br><br>
       Ask a question <a href="https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues">here</a>.
+<br><br><br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ds-marcelo-spereira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/marcelo.s.pereira_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
     </td>
     <td style="width:100%;">
       <img src="https://github.com/user-attachments/assets/96b9fe73-fa15-413d-9907-b03af55540c8" style="max-width:100%; height:auto;" />
@@ -35,17 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ds-marcelo-spereira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/marcelo.s.pereira_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
