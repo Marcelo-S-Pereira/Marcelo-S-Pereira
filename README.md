@@ -1,36 +1,19 @@
 # Hi! I'm Marcelo Pereira #
 
 ---
-
-I've been a developer passionate about automation since I was 20 years old.
-
-Ask a question [here](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues)
-
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcelo-dos-santos-pereira-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
----
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-S-Pereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-##
+<table style="width:100%; border-collapse: collapse;" border="0" cellspacing="0"">
+  <tr>
+    <td style="width:100%;">
+      I've been a developer passionate about automation since I was 20 years old.<br><br><br>
+      Ask a question <a href="https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues">here</a>.
+    </td>
+    <td style="width:100%;">
+      <img src="https://github.com/user-attachments/assets/96b9fe73-fa15-413d-9907-b03af55540c8" style="max-width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-# Skill Set💪 #
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -54,6 +37,27 @@ Ask a question [here](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/iss
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcelo-dos-santos-pereira-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+---
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-S-Pereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+##
+
 
 ---
 
@@ -64,6 +68,15 @@ Ask a question [here](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/iss
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcelo-S-Pereira/Marcelo-S-Pereira/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcelo-S-Pereira/Marcelo-S-Pereira/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+---
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Marcelo-S-Pereira/count.svg?&theme=white"  />
+</div>
 
 ###
 
