@@ -54,6 +54,10 @@ Ask a question [here](https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/iss
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+
+---
+
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcelo-S-Pereira/Marcelo-S-Pereira/output/pacman-contribution-graph-dark.svg">
