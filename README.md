@@ -49,35 +49,27 @@
 ###
 
 ---
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&width=400&height=200&hide_border=true"
+      alt="GitHub Stats"
+      style="width: 400px; height: 200px; display: block;"
+    />
+  </a>
 
-###
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&width=400&height=200&hide_border=true"
+      alt="Top Languages"
+      style="width: 400px; height: 200px; display: block;"
+    />
+  </a>
+</div>
 
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&width=400&height=200"
-    alt="GitHub Stats"
-    width="400"
-    height="200"
-  />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&width=400&height=200"
-    alt="Top Languages"
-    width="400"
-    height="200"
-  />
-</a>
-
-###
-
-##
-
-
+####
 ---
 
 
