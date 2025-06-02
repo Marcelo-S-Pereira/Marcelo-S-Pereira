@@ -47,7 +47,35 @@
 </div>
 
 ###
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  margin: 20px 0;
+">
+  <!-- GitHub Stats Card -->
+  <div style="grid-column: 1;">
+    <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&width=400&height=200&hide_border=true"
+        alt="GitHub Stats"
+        style="width: 100%; height: 200px; display: block;"
+      />
+    </a>
+  </div>
 
+  <!-- Top Languages Card -->
+  <div style="grid-column: 2;">
+    <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&width=400&height=200&hide_border=true"
+        alt="Top Languages"
+        style="width: 100%; height: 200px; display: block;"
+      />
+    </a>
+  </div>
+</div>
 ---
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
