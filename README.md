@@ -5,6 +5,7 @@
   <tr>
     <td style="width:100%;">
       I've been a developer passionate about automation since I was 20 years old.<br><br><br>
+      I'm Data Scientist, and Dev Front-end.<br><br><br>
       Ask a question <a href="https://github.com/Marcelo-S-Pereira/Marcelo-S-Pereira/issues">here</a>.
 <br><br><br>
 <div align="left">
@@ -24,45 +25,40 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
 
 
 ###
 
-<table>
+<div align="center"; >
+
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="400" alt="GitHub Stats" />
+    <td align="center" valign="top" style="width: 80%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="100%" alt="GitHub Stats" />
     </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&hide_border=true&hide_title=true" width="400" alt="Top Languages" />
+    <td align="center" valign="top" style="width: 80%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&hide_border=true&hide_title=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-
-
+</div>
 
 
 
