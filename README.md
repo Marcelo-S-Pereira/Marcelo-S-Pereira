@@ -52,10 +52,26 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-S-Pereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&width=400&height=200"
+    alt="GitHub Stats"
+    width="400"
+    height="200"
+  />
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&width=400&height=200"
+    alt="Top Languages"
+    width="400"
+    height="200"
+  />
+</a>
 
 ###
 
