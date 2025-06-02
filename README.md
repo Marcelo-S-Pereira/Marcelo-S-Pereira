@@ -48,34 +48,47 @@
 
 ###
 <div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
+  width: 100%;
   margin: 20px 0;
 ">
   <!-- GitHub Stats Card -->
-  <div style="grid-column: 1;">
+  <div style="
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+    overflow: hidden;
+  ">
     <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&width=400&height=200&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&hide_border=true&show_icons=true"
         alt="GitHub Stats"
-        style="width: 100%; height: 200px; display: block;"
+        style="width: 100%; height: 100%; object-fit: contain;"
       />
     </a>
   </div>
 
   <!-- Top Languages Card -->
-  <div style="grid-column: 2;">
+  <div style="
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+    overflow: hidden;
+  ">
     <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&width=400&height=200&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&hide_border=true"
         alt="Top Languages"
-        style="width: 100%; height: 200px; display: block;"
+        style="width: 100%; height: 100%; object-fit: contain;"
       />
     </a>
   </div>
 </div>
+
+###
 ---
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
