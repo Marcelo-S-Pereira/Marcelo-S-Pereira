@@ -47,20 +47,25 @@
 </div>
 
 ###
+
+
+###
 <div style="
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
-  gap: 20px;
+  gap: 10px;
   width: 100%;
-  margin: 20px 0;
+  margin: 10px 0;
 ">
   <!-- GitHub Stats Card -->
   <div style="
-    width: 100%;
-    max-width: 400px;
-    height: 200px;
+    width: 50%;
+    max-width: 200px;
+    height: 100px;
     overflow: hidden;
+    max-width: 700px;
+    margin: 10px auto
   ">
     <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
       <img
@@ -73,9 +78,9 @@
 
   <!-- Top Languages Card -->
   <div style="
-    width: 100%;
-    max-width: 400px;
-    height: 200px;
+    width: 50%;
+    max-width: 200px;
+    height: 150px;
     overflow: hidden;
   ">
     <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
