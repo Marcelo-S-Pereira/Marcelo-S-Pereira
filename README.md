@@ -46,52 +46,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
 
 ###
-<div style="
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  gap: 10px;
-  width: 100%;
-  margin: 10px 0;
-">
-  <!-- GitHub Stats Card -->
-  <div style="
-    width: 50%;
-    max-width: 200px;
-    height: 100px;
-    overflow: hidden;
-    max-width: 700px;
-    margin: 10px auto
-  ">
-    <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&hide_border=true&show_icons=true"
-        alt="GitHub Stats"
-        style="width: 100%; height: 100%; object-fit: contain;"
-      />
-    </a>
-  </div>
 
-  <!-- Top Languages Card -->
-  <div style="
-    width: 50%;
-    max-width: 200px;
-    height: 150px;
-    overflow: hidden;
-  ">
-    <a href="https://github.com/Marcelo-S-Pereira/github-readme-stats" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&hide_border=true"
-        alt="Top Languages"
-        style="width: 100%; height: 100%; object-fit: contain;"
-      />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Pereira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="400" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-S-Pereira&layout=compact&hide_border=true&hide_title=true" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
